@@ -5,12 +5,20 @@
     <link>https://duxingyi-charles.github.io/author/xingyi-du/</link>
       <atom:link href="https://duxingyi-charles.github.io/author/xingyi-du/index.xml" rel="self" type="application/rss+xml" />
     <description>Xingyi Du</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 09 Oct 2022 17:23:54 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 27 Jul 2024 17:23:54 -0500</lastBuildDate>
     <image>
       <url>https://duxingyi-charles.github.io/img/avatar.jpg</url>
       <title>Xingyi Du</title>
       <link>https://duxingyi-charles.github.io/author/xingyi-du/</link>
     </image>
+    
+    <item>
+      <title>Adaptive Grid Generation for Discretizing Implicit Complexes</title>
+      <link>https://duxingyi-charles.github.io/publication/adaptive-grid-generation-for-discretizing-implicit-complexes/</link>
+      <pubDate>Sat, 27 Jul 2024 17:23:54 -0500</pubDate>
+      <guid>https://duxingyi-charles.github.io/publication/adaptive-grid-generation-for-discretizing-implicit-complexes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Isometric Energies for Recovering Injectivity in Constrained Mapping</title>

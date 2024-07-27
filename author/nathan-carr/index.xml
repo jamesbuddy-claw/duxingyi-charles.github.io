@@ -5,12 +5,20 @@
     <link>https://duxingyi-charles.github.io/author/nathan-carr/</link>
       <atom:link href="https://duxingyi-charles.github.io/author/nathan-carr/index.xml" rel="self" type="application/rss+xml" />
     <description>Nathan Carr</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Apr 2022 17:23:54 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 27 Jul 2024 17:23:54 -0500</lastBuildDate>
     <image>
       <url>https://duxingyi-charles.github.io/img/avatar.jpg</url>
       <title>Nathan Carr</title>
       <link>https://duxingyi-charles.github.io/author/nathan-carr/</link>
     </image>
+    
+    <item>
+      <title>Adaptive Grid Generation for Discretizing Implicit Complexes</title>
+      <link>https://duxingyi-charles.github.io/publication/adaptive-grid-generation-for-discretizing-implicit-complexes/</link>
+      <pubDate>Sat, 27 Jul 2024 17:23:54 -0500</pubDate>
+      <guid>https://duxingyi-charles.github.io/publication/adaptive-grid-generation-for-discretizing-implicit-complexes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust Computation of Implicit Surface Networks for Piecewise Linear Functions</title>
