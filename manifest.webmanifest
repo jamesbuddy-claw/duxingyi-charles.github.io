@@ -1,0 +1,18 @@
+{
+  "name": "Xingyi Du's Homepage",
+  "short_name": "Xingyi Du's Homepage",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu_d874f001ef1689c5.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu_aa9f8203f7aa960c.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

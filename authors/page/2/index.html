@@ -205,44 +205,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168058291-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-168058291-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -254,8 +216,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_huf6cc63f61214c7e23fc80e3f93061f20_16799_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huf6cc63f61214c7e23fc80e3f93061f20_16799_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu_d394a2e088b8a717.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_d874f001ef1689c5.png">
 
   <link rel="canonical" href="https://duxingyi-charles.github.io/authors/">
 
@@ -280,7 +242,7 @@
   <meta property="og:description" content="Xingyi (Charles) Du&#39;s personal website"><meta property="og:image" content="https://duxingyi-charles.github.io/img/avatar.jpg">
   <meta property="twitter:image" content="https://duxingyi-charles.github.io/img/avatar.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-07-27T17:23:54-05:00">
+    <meta property="og:updated_time" content="2025-12-01T00:00:00-05:00">
   
 
   
@@ -561,19 +523,34 @@
     
     
       
+      <li><a href="https://duxingyi-charles.github.io/author/yun-zeng/">Yun Zeng</a></li>
+    
+      
+      <li><a href="https://duxingyi-charles.github.io/author/yuzhe-luo/">Yuzhe Luo</a></li>
+    
+      
+      <li><a href="https://duxingyi-charles.github.io/author/zherong-pan/">Zherong Pan</a></li>
+    
+      
+      <li><a href="https://duxingyi-charles.github.io/author/danny-m.-kaufman/">Danny M. Kaufman</a></li>
+    
+      
+      <li><a href="https://duxingyi-charles.github.io/author/noam-aigerman/">Noam Aigerman</a></li>
+    
+      
+      <li><a href="https://duxingyi-charles.github.io/author/shahar-z.-kovalsky/">Shahar Z. Kovalsky</a></li>
+    
+      
+      <li><a href="https://duxingyi-charles.github.io/author/yajie-yan/">Yajie Yan</a></li>
+    
+      
+      <li><a href="https://duxingyi-charles.github.io/author/dong-ming-yan/">Dong-Ming Yan</a></li>
+    
+      
       <li><a href="https://duxingyi-charles.github.io/author/hui-zhang/">Hui Zhang</a></li>
     
       
       <li><a href="https://duxingyi-charles.github.io/author/juntao-ye/">Juntao Ye</a></li>
-    
-      
-      <li><a href="https://duxingyi-charles.github.io/author/caigui-jiang/">Caigui Jiang</a></li>
-    
-      
-      <li><a href="https://duxingyi-charles.github.io/author/xiaohan-liu/">Xiaohan Liu</a></li>
-    
-      
-      <li><a href="https://duxingyi-charles.github.io/author/xingyi-du-%E6%9D%9C%E5%85%B4%E9%80%B8/">Xingyi Du (杜兴逸)</a></li>
     
   </ul>
 
@@ -583,6 +560,8 @@
     
     <li class="page-item"><a class="page-link" href="/authors/">&laquo;</a></li>
     
+    
+    <li class="page-item"><a class="page-link" href="/authors/page/3/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -692,7 +671,7 @@
     
     
     
-    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+    <script src="/js/academic.min.cd49b33b1a5b0c072c2ea5ce8c6d25c8.js"></script>
 
     
 

@@ -1,162 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://duxingyi-charles.github.io/publication/adaptive-grid-generation-for-discretizing-implicit-complexes/</loc>
-    <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://duxingyi-charles.github.io/authors/</loc>
-    <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/kui-wu/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/publication/lifted-surfacing-of-generalized-sweep-volumes/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/nathan-carr/</loc>
-    <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/qingnan-zhou/</loc>
-    <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/publication/rl-acd-reinforcement-learning-based-approximate-convex-decomposition/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/tao-ju/</loc>
-    <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/xiangjun-tang/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/xiaogang-jin/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/xifeng-gao/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/xingyi-du/</loc>
-    <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/yiqian-wu/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/yiwen-ju/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/yun-zeng/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/yuzhe-luo/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/zherong-pan/</loc>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/publication/adaptive-grid-generation-for-discretizing-implicit-complexes/</loc>
     <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/danny-m.-kaufman/</loc>
     <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/isometric-energies-for-recovering-injectivity-in-constrained-mapping/</loc>
     <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/noam-aigerman/</loc>
     <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/shahar-z.-kovalsky/</loc>
     <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/yajie-yan/</loc>
     <lastmod>2024-07-27T14:33:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/robust-computation-of-implicit-surface-networks-for-piecewise-linear-functions/</loc>
     <lastmod>2022-08-27T20:50:07-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/optimizing-global-injectivity-for-constrained-parameterization/</loc>
     <lastmod>2021-12-11T15:37:42-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/boundary-sampled-halfspaces/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/post/phd_oral_summary/</loc>
     <lastmod>2020-07-01T10:04:34-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/lifting-simplices-to-find-injectivity/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/dong-ming-yan/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/hui-zhang/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/juntao-ye/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/quad-mesh-generation-via-field-aligned-centroidal-voronoi-tessellation/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/caigui-jiang/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/field-aligned-isotropic-surface-remeshing/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/xiaohan-liu/</loc>
     <lastmod>2021-10-03T11:34:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://duxingyi-charles.github.io/author/authors/</loc>
+    <lastmod>2026-02-04T23:42:33-08:00</lastmod>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/publication/</loc>
     <lastmod>2020-05-04T17:54:38-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://duxingyi-charles.github.io/author/xingyi-du-%E6%9D%9C%E5%85%B4%E9%80%B8/</loc>
-    <lastmod>2024-07-27T14:32:45-07:00</lastmod>
+    <lastmod>2026-02-05T09:08:36-08:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://duxingyi-charles.github.io/</loc>
-    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
-  </url>
-  
 </urlset>
