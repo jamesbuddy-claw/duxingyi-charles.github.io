@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kui Wu | Xingyi Du&#39;s Homepage</title>
+    <link>https://duxingyi-charles.github.io/author/kui-wu/</link>
+      <atom:link href="https://duxingyi-charles.github.io/author/kui-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kui Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Dec 2025 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://duxingyi-charles.github.io/img/avatar.jpg</url>
+      <title>Kui Wu</title>
+      <link>https://duxingyi-charles.github.io/author/kui-wu/</link>
+    </image>
+    
+    <item>
+      <title>RL-ACD: Reinforcement Learning-based Approximate Convex Decomposition</title>
+      <link>https://duxingyi-charles.github.io/publication/rl-acd-reinforcement-learning-based-approximate-convex-decomposition/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 -0500</pubDate>
+      <guid>https://duxingyi-charles.github.io/publication/rl-acd-reinforcement-learning-based-approximate-convex-decomposition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

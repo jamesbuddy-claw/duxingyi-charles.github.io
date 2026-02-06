@@ -205,44 +205,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168058291-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-168058291-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -252,8 +214,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_huf6cc63f61214c7e23fc80e3f93061f20_16799_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huf6cc63f61214c7e23fc80e3f93061f20_16799_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu_e1a8e60abd7d4e6d.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_8b3373c31208a8f6.png">
 
   <link rel="canonical" href="https://duxingyi-charles.github.io/publication/robust-computation-of-implicit-surface-networks-for-piecewise-linear-functions/">
 
@@ -324,7 +286,7 @@
     "name": "Xingyi Du's Homepage",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://duxingyi-charles.github.io/images/icon_huf6cc63f61214c7e23fc80e3f93061f20_16799_192x192_fill_lanczos_center_2.png"
+      "url": "https://duxingyi-charles.github.io/images/icon_hu_8b3373c31208a8f6.png"
     }
   },
   "description": "A robust method for computing implicit surface networks (e.g. arrangements and material interfaces) on a tetrahedron grid"
@@ -609,7 +571,7 @@
     
 
   
-  <span>Xingyi Du</span>, <span>Qingnan Zhou</span>, <span>Nathan Carr</span>, <span>Tao Ju</span>
+  <span><a href="/author/xingyi-du/">Xingyi Du</a></span>, <span><a href="/author/qingnan-zhou/">Qingnan Zhou</a></span>, <span><a href="/author/nathan-carr/">Nathan Carr</a></span>, <span><a href="/author/tao-ju/">Tao Ju</a></span>
   </div>
   
   
@@ -798,10 +760,9 @@
 <h3 id="abstract"><strong>Abstract</strong></h3>
 <p>Implicit surface networks, such as arrangements of implicit surfaces and materials interfaces, are used for modeling piecewise smooth or partitioned shapes. However, accurate and numerically robust algorithms for discretizing either structure on a grid are still lacking. We present a unified approach for computing both types of surface networks for piecewise linear functions defined on a tetrahedral grid. Both algorithms are guaranteed to produce a correct combinatorial structure for any number of functions. Our main contribution is an exact and efficient method for partitioning a tetrahedron using the level sets of linear functions defined by barycentric interpolation. To further improve performance, we designed look-up tables to speed up processing of tetrahedra involving few functions and introduced an efficient algorithm for identifying nested 3D regions.</p>
 <h2 id="video"><strong>Video</strong></h2>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/d8Vl6jZdgmI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/d8Vl6jZdgmI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
 
 <h2 id="results"><strong>Results</strong></h2>
 
@@ -1142,7 +1103,7 @@
     
     
     
-    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+    <script src="/js/academic.min.cd45a9c0bbdd3dfb1c126917c601c9f2.js"></script>
 
     
 
